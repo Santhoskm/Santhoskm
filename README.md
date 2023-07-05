@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Santhoskm
-- 👀 I’m interested in cyber security.
+- 👀 I’m interested in MERN stack.
 - 🌱 I’m currently learning b.e.compter science .
 - 💞️ I’m looking to collaborate on networking.
 - 📫 How to reach me kmsanthosh336@gmail.com.
