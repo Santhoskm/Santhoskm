@@ -2,7 +2,7 @@
 
 Full Stack Developer | React.js | Django | React Native
 
-## About Me
+## About 
 - Full Stack Developer from India
 - Building AI, Web, and Mobile applications
 - Interested in AI, Computer Vision, and Full Stack Development
