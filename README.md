@@ -1,4 +1,4 @@
-# Hi, I'm Santhosh 👋
+# Hi, I'm Santhosh
 
 Full Stack Developer | React.js | Django | React Native
 
